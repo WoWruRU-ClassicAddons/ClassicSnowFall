@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Classic Snowfall
+## Author: Vallan
+## Notes: Keydown Cast Support for Vanilla
+## Notes-ruRU: Сокращение задержки между нажатием клавиши и способностью
+## Version: 0.4
+## SavedVariablesPerCharacter: CS_SELF_ENABLED
+
+localization.lua
+ClassicSnowfall.lua
